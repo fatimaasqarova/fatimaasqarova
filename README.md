@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaasqarova&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaasqarova" /> </p>
-</br>
 
 ### Hi, I'm Fatima!👋
-</br>
 
 ### Languages and tools I work with:
 
