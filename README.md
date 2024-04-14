@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaasqarova&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaasqarova" /> </p>
 
 ### Hi, I'm Fatima!👋
-### <b color="purple"; >Welcome to My Purple Cosmos!</b>
+### Welcome to My Purple Cosmos!
 
 ### Languages and tools I work with:
 
